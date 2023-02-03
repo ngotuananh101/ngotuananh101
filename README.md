@@ -19,7 +19,7 @@
 I am versatile and quickly adapt to can be work as Full Stack Web Developer 🌐, App Developer 📱, beginner-level ML Engineer 🤖 or Designer 🎨 depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br/>
 <br/>
-<img align="right" alt="Full Brain GIF" src="https://raw.githubusercontent.com/ngotuananh101/ngotuananh101/main/assets/images/other/fullbrain.gif" width="300px"/>
+<img align="right" alt="Full Brain GIF" src="https://raw.githubusercontent.com/ngotuananh101/ngotuananh101/main/assets/images/other/fullbrain.gif" width="330px"/>
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on [my portfolio](https://github.com/ngotuananh101/) and [my own organization](https://github.com/pontadevv)
@@ -37,3 +37,15 @@ I am versatile and quickly adapt to can be work as Full Stack Web Developer 🌐
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,php,dart,python,c,cs,java)](https://ponta.dev)
 ### 🛠 Frameworks and Libraries:
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,flutter,laravel,bootstrap)](https://ponta.dev)
+### 🛠 Tools:
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,androidstudio,figma,photoshop,illustrator,adobexd)](https://ponta.dev) and more...
+
+### 📊 My Github Stats:
+<a href='https://github.com/ngotuananh101/github-stats'>
+  
+![Stats Overview](https://github.com/ngotuananh101/github-stats/raw/master/generated/overview.svg)
+![Most Used Languages](https://github.com/ngotuananh101/github-stats/raw/master/generated/languages.svg)
+
+</a>
+
+<br>
