@@ -34,4 +34,6 @@ I am versatile and quickly adapt to can be work as Full Stack Web Developer 🌐
 <br>
 
 ### 🛠 Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,php,dart,python,dotnet,java)](https://ponta.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,php,dart,python,c,cs,java)](https://ponta.dev)
+### 🛠 Frameworks and Libraries:
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,flutter,laravel,bootstrap)](https://ponta.dev)
