@@ -20,3 +20,15 @@ I am versatile and quickly adapt to can be work as Full Stack Web Developer 🌐
 <br/>
 <br/>
 <img align="right" alt="Full Brain GIF" src="https://raw.githubusercontent.com/ngotuananh101/ngotuananh101/main/assets/images/other/fullbrain.gif" width="360px"/>
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on [my portfolio](https://github.com/ngotuananh101/) and [my own organization](https://github.com/pontadevv)
+- 🤝 &nbsp; I’m looking to collaborate on [netflex](https://github.com/pontadevv/netflex)
+- 🌱 &nbsp; I’m currently learning Python, Machine Learning, and Data Science; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ngotuananh101?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ngotuananh2101/)
+- 📝 &nbsp; Checkout my [resume](https://www.topcv.vn/p/ngotuananh2101)
+- 📚 &nbsp; When I am free, I read fantasy , fiction novels and watch movies 🎥 and series 📺.
+
+<br>
