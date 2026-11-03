@@ -24,6 +24,6 @@
 
 ### 📊 My Github Stats:
   ![Stats
-  Overview](https://github.com/ngotuananh101/github-stats/raw/master/generated/overview.svg)
+  Overview](https://raw.githubusercontent.com/ngotuananh101/github-stats/refs/heads/generated/overview.svg)
   ![Most Used
-  Languages](https://github.com/ngotuananh101/github-stats/raw/master/generated/languages.svg)
+  Languages](https://raw.githubusercontent.com/ngotuananh101/github-stats/refs/heads/generated/languages.svg)
